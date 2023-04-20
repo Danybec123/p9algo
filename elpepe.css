@@ -1,9 +1,10 @@
 body{background-color: black;}
-h1{color: aliceblue;}
-h2{color:aliceblue}
-h4{color: aliceblue;}
+h1{color: rgb(255, 0, 0);}
+h2{color:rgb(255, 4, 4)}
+h4{color: rgb(0, 136, 254);}
 #botonaa{background-color: red; color: yellowgreen; border-radius: 109201902930910px;}
 #boton1{background-color: cadetblue; color: red;}
 input{background-color: black;color: aqua;}
-#Div{border-radius: 10239218893789217839px; background-color: aqua;}
+h3{color: aliceblue;}
+
 #dive{position:fixed;bottom: 0px; text-align: center; width: 100%;}
